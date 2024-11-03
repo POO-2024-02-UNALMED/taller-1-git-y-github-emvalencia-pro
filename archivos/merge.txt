@@ -1,3 +1,0 @@
-Emmanuel Valencia Lopera 
-Edad:18
-Mis aspiraciones en este curso son comprender como funciona la programación orientada objetos en lenguajes interpretados y compilados como Python y Java.
