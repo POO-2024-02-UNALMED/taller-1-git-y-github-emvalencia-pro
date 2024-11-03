@@ -1,3 +1,12 @@
 Emmanuel Valencia Lopera
 Edad: 18
 En este curso aspiro aprender sobre el paradigma de la programación orientada a objetos, manejar los lenguajes de Java y Python en un muy buen nivel
+
+¿Por qu ́e ahora puedes crear un commit y subir la carpeta?
+Por que ahora la carpeta archivos si tiene un archivo con el cual se puede hacer un commit
+
+¿Por qué es importante
+tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?
+Por que pueden haber conflictos que dificulten subir datos, o se puede sobre escribir y se puede perder
+información importante
+
