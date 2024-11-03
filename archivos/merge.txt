@@ -1,1 +1,3 @@
-Por que si hay una carpeta vacía github desktop la ignora, pero si se crea un archivo dentro de la carpeta si se puede hacer un commit.
+Emmanuel Valencia Lopera 
+Edad:18
+Mis aspiraciones en este curso son comprender como funciona la programación orientada objetos en lenguajes interpretados y compilados como Python y Java.
